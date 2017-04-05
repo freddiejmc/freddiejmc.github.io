@@ -1,3 +1,2 @@
 # freddiejmc.github.io
-Website
-TEST!
+Freddie McGee website project 
