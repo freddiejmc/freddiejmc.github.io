@@ -20,6 +20,11 @@ a {
 	color: white
 }
 
+a:hover {
+    color: #000080;
+}
+
+
 #maintitle {
 	font-weight: 700;
 	font-size: 20px;
