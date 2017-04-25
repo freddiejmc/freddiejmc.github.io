@@ -1,5 +1,29 @@
-html{background-color: #4BC6FE;}
+html{
+	background-color: #4BC6FE;
+}
 
+h1 {
+	font-size: 50px;
+	font-family: "Roboto"
+}
+
+h2 {
+	font-size: 30px;
+	font-family: "Roboto"
+}
+
+p {
+	font-size: 20px;
+}
+
+a {
+	color: white
+}
+
+#maintitle {
+	font-weight: 700;
+	font-size: 20px;
+}
 
 .body {
  visibility: hidden;
@@ -16,23 +40,4 @@ html{background-color: #4BC6FE;}
  padding-left: 100px;
  padding-right: 20px;
  padding-bottom: 40px;
-}
-
-a{color: white}
-p{line-height: 32px;}
-img{padding-top: 100px;}
-h1 {
-	font-size: 50px;
-	font-family: "Roboto"
-}
-h2 {
-	font-size: 30px;
-	font-family: "Roboto"
-}
-p {
-	font-size: 20px;
-}
-#maintitle {
-	font-weight: 700;
-	font-size: 20px;
 }
